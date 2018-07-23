@@ -1,0 +1,11 @@
+{
+    "bot_token": "",
+    "roles": {
+        "admin": "",
+        "sop": "",
+        "op": "",
+        "mod": "",
+        "trusted": "",
+        "donator": ""
+    }
+}
